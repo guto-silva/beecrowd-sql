@@ -1,7 +1,8 @@
 # BEECROWD - EXERCÍCIOS RESOLVIDOS EM SQL
 
 ## Exercícios resolvidos - Categoria SQL
-
+:-------------------------------------------------------------------------------------------------------------:|
+SQL                                                                                                            |
 :--------------------------------------------------------------------------------------------------------------|  
 [2602 - Select Básico](https://github.com/guto-silva/beecrowd-sql/blob/master/Bee2602.sql)                     |  
 [2603 - Endereço dos Clientes](https://github.com/guto-silva/beecrowd-sql/blob/master/Bee2603.sql)             |  

@@ -1,4 +1,4 @@
-# BEECROWD - EXERCÍCIOS RESOLVIDOS EM SQL
+# BEECROWD
 
 Exercícios resolvidos - Categoria SQL                                                                          |
 :--------------------------------------------------------------------------------------------------------------|  
